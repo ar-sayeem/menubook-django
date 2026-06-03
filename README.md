@@ -194,7 +194,3 @@ Thumbs.db
 - GitHub: [@ar-sayeem](https://github.com/ar-sayeem)
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
